@@ -1,0 +1,61 @@
+/*Site inspired by Brain Tomasik - https://briantomasik.com */
+
+a:hover {
+    background-color: #FFC; /* Inspired by https://www.w3.org/International/style/article-2016.css */
+    text-decoration: underline;
+  }
+  
+  body {
+    color: rgb(17, 17, 17);
+    max-width: 760px;
+    padding: 3% 4% 3% 4%;
+    margin: auto; /* center */
+    font-size: 1em;
+    font-family:'Inter', Sans-Serif;
+    line-height: 1.6em;
+    font-weight: 440;
+  }
+  
+  pre {
+    white-space: pre-wrap;
+    border: 1px solid rgb(234, 234, 234);
+    padding: 2%;
+  }
+  
+  h1{
+    color: rgb(17, 17, 17);
+  }
+  
+  li { margin: 0.2em 0em 0.2em 0em; }
+  li a{
+    text-decoration: none;
+  }
+  nav {
+    text-align: right;
+    font-size: 80%;
+  }
+  
+  nav a {
+    display: inline-block;
+    text-align: center;
+    padding: 0 5px; /* Adjust spacing if necessary */
+    color: var(--nav_and_footer_link_color);
+    text-decoration: none;
+  }
+  
+  footer {
+    font-size: 70%;
+    color: rgb(0, 0, 0);
+  }
+  
+  footer a {
+    color: var(--nav_and_footer_link_color);
+    text-decoration: none;
+  }
+
+  article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+  }
