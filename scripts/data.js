@@ -28,7 +28,7 @@ const blogroll = [
 }
 */
 
-const links = [
+const bookmarks = [
     {
         "url": "https://hg2dc.com/",
         "title": "The Hitchhiker's Guide to Digital Color"

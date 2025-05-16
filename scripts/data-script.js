@@ -5,4 +5,4 @@ function renderList(list, containerId) {
 }
 
 renderList(blogroll, 'blogroll-list');
-renderList(links, 'links-list');
+renderList(bookmarks, 'bookmarks-list');
