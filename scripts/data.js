@@ -30,6 +30,10 @@ const blogroll = [
 
 const bookmarks = [
     {
+    "url": "https://en.wikipedia.org/wiki/Grievance_studies_affair",
+    "title": "Grievance studies affair"
+    },
+    {
         "url": "https://hg2dc.com/",
         "title": "The Hitchhiker's Guide to Digital Color"
     },
