@@ -30,6 +30,46 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://neal.fun/internet-artifacts/",
+        "title": "Internet Artifacts"
+    },
+    {
+        "url": "https://quarter--mile.com/Human",
+        "title": "Human"
+    },
+    {
+        "url": "https://histography.io/",
+        "title": "Histography (Interactive History Timeline)"
+    },
+    {
+        "url": "https://www.syllabi.directory/english-literature",
+        "title": "Great English Literature"
+    },
+    {
+        "url": "https://www.aisafety.com/map",
+        "title": "AI Safety Map"
+    },
+    {
+        "url": "https://matt.might.net/articles/what-cs-majors-should-know/",
+        "title": "What Every Computer Science Major Should Know"
+    },
+    {
+        "url": "https://www.lesswrong.com/posts/9LXxgXySTFsnookkw/exercises-in-comprehensive-information-gathering",
+        "title": "Exercises In Comprehensive Information Gathering"
+    },
+    {
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "title": "CIA's World Fact book"
+    },
+    {
+        "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+        "title": "Infinite Grid of Resistors"
+    },
+    {
+        "url": "https://www.mathpages.com/home/kmath669/kmath669.htm",
+        "title": "The Algebra of an Infinite Grid of Resistors"
+    },
+    {
     "url": "https://en.wikipedia.org/wiki/Grievance_studies_affair",
     "title": "Grievance studies affair"
     },
