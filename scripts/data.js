@@ -30,6 +30,62 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html",
+        "title": "Reverse-engineering the first FPGA chip, the XC2064"
+    },
+    {
+        "url": "https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form",
+        "title": "Being too ambitious is a clever form of self-sabotage"
+    },
+    {
+        "url": "https://www.commandlinefu.com/commands/browse",
+        "title": "COMMANDLINEFU.COM"
+    },
+    {
+        "url": "https://bowshock.nl/irc/",
+        "title": "Start your own Internet Resiliency Club"
+    },
+    {
+        "url": "https://5usu.github.io/USGPORT.html",
+        "title": "My Deep Dive into FPGA-Based Portable Ultrasound"
+    },
+    {
+        "url": "https://www.mathpages.com/home/kmath669/kmath669.htm",
+        "title": "The Algebra of an Infinite Grid of Resistors"
+    },
+    {
+        "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+        "title": "Infinite Grid of Resistors"
+    },
+    {
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "title": "CIA's World Fact Book"
+    },
+    {
+        "url": "https://www.lesswrong.com/posts/9LXxgXySTFsnookkw/exercises-in-comprehensive-information-gathering",
+        "title": "Exercises In Comprehensive Information Gathering"
+    },
+    {
+        "url": "https://matt.might.net/articles/what-cs-majors-should-know/",
+        "title": "What Every Computer Science Major Should Know"
+    },
+    {
+        "url": "https://www.aisafety.com/map",
+        "title": "AI Safety Map"
+    },
+    {
+        "url": "https://www.syllabi.directory/english-literature",
+        "title": "Great English Literature"
+    },
+    {
+        "url": "https://histography.io/",
+        "title": "Histography (Interactive History Timeline)"
+    },
+    {
+        "url": "https://quarter--mile.com/Human",
+        "title": "Human"
+    },
+    {
         "url": "https://neal.fun/internet-artifacts/",
         "title": "Internet Artifacts"
     },
