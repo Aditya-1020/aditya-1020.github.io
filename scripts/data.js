@@ -30,6 +30,18 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://tpl.house/",
+        "title": "The Promised LAN"
+    },
+    {
+        "url": "https://damek.github.io/random/basic-facts-about-gpus/",
+        "title": "Basic Facts about GPUs"
+    },
+    {
+        "url": "https://henryhmko.github.io/posts/tpu/tpu.html",
+        "title": "TPU Deep Dive"
+    },
+    {
         "url": "https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html",
         "title": "Reverse-engineering the first FPGA chip, the XC2064"
     },
