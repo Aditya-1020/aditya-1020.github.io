@@ -17,7 +17,8 @@ const blogroll = [
     { "url": "https://guzey.com/", "title": "Alexey Guzey" },
     { "url": "https://fgiesen.wordpress.com/", "title": "The ryg Blog" },
     { "url": "https://taylor.town/", "title": "taylor.town" },
-    { "url": "https://www.righto.com/", "title": "Ken Shirriff's Blog" }
+    { "url": "https://www.righto.com/", "title": "Ken Shirriff's Blog" },
+    { "url": " - https://lemire.me/blog/", "title": "Daniel Lemire" }
 ];
 
 
@@ -29,6 +30,51 @@ const blogroll = [
 */
 
 const bookmarks = [
+
+    {
+    "url": "https://www.tinytpu.com/",
+    "title": "Tiny TPU"
+    },
+    {
+        "url": "https://mcyoung.xyz/2023/11/27/simd-base64/",
+        "title": "Designing a SIMD Algorithm from Scratch"
+    },
+    {
+        "url": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
+        "title": "Why do we need SIMD instructions ?"
+    },
+    {
+        "url": "https://www.historicaltechtree.com/",
+        "title": "Historical Tech Tree"
+    },
+    {
+        "url": "https://stackoverflow.com/questions/16699247/what-does-it-mean-for-code-to-be-cache-friendly/16699282#16699282",
+        "title": "What does it mean for code to be cache friendly"
+    },
+    {
+        "url": "https://vert.sh/",
+        "title": "OSS Local file converter"
+    },
+    {
+        "url": "https://www.homerow.app/",
+        "title": "Keyboard shortcuts for anything in MAC"
+    },
+    {
+        "url": "https://clone.fyi/",
+        "title": "clone.fyi"
+    },
+    {
+        "url": "https://linkitylink.lol/",
+        "title": "linkity.link"
+    },
+    {
+        "url": "https://cheat.sh/",
+        "title": "Cheat.sh"
+    },
+    {
+        "url": "https://qr.blinry.org/",
+        "title": "Reading QR codes without a computer"
+    },
     {
         "url": "https://tpl.house/",
         "title": "The Promised LAN"
