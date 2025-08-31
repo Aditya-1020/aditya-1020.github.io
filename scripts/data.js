@@ -32,6 +32,10 @@ const blogroll = [
 const bookmarks = [
 
     {
+        "url": "https://kvcable.com/what-does-cable-bend-radius-mean-what-affects-the-bend-radius-of-a-cable/",
+        "title": "Bend radius and cables"
+    },
+    {
     "url": "https://www.tinytpu.com/",
     "title": "Tiny TPU"
     },
