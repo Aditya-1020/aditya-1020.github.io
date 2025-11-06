@@ -32,12 +32,40 @@ const blogroll = [
 const bookmarks = [
 
     {
+        "url": "https://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html",
+        "title": "A Stick Figure Guide to the Advanced Encryption Standard (AES)"
+    },
+    {
+        "url": "https://phocks.org/stumble/lsd-history-comic/",
+        "title": "LSD History Comic"
+    },
+    {
+        "url": "https://sinerider.com/",
+        "title": "Sinerider"
+    },
+    {
+        "url": "https://drive.google.com/drive/u/0/folders/1W4CIRKtNML74BKjSbXerRsIzAUk3ppSG",
+        "title": "Cardyak's Microarchitecture Block Diagram Images"
+    },
+    {
+        "url": "https://vaibhawvipul.github.io/2025/09/16/Competence-not-gatekeeping.html",
+        "title": "The Systems Programmer Extinction Event"
+    },
+    {
+        "url": "https://tensornetwork.org/",
+        "title": "Tensor Network"
+    },
+    {
+        "url": "https://www.qubitfactory.io/",
+        "title": "Qubit Factory"
+    },
+    {
         "url": "https://kvcable.com/what-does-cable-bend-radius-mean-what-affects-the-bend-radius-of-a-cable/",
         "title": "Bend radius and cables"
     },
     {
-    "url": "https://www.tinytpu.com/",
-    "title": "Tiny TPU"
+        "url": "https://www.tinytpu.com/",
+        "title": "Tiny TPU"
     },
     {
         "url": "https://mcyoung.xyz/2023/11/27/simd-base64/",
