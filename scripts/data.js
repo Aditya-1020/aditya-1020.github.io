@@ -18,9 +18,9 @@ const blogroll = [
     { "url": "https://fgiesen.wordpress.com/", "title": "The ryg Blog" },
     { "url": "https://taylor.town/", "title": "taylor.town" },
     { "url": "https://www.righto.com/", "title": "Ken Shirriff's Blog" },
-    { "url": " - https://lemire.me/blog/", "title": "Daniel Lemire" }
+    { "url": "https://lemire.me/blog/", "title": "Daniel Lemire" },
+    { "url": "https://semiwiki.com/", "title": "SemiWiki" }
 ];
-
 
 /*
 {
@@ -30,7 +30,50 @@ const blogroll = [
 */
 
 const bookmarks = [
-
+    {
+        "url": "https://publish.obsidian.md/discretecs/START+HERE",
+        "title": "Discrete Structures for Computer Science"
+    },
+    {
+        "url": "https://waywo.eamag.me/",
+        "title": "What Is HackerNews Working on ?"
+    },
+    {
+        "url": "https://bytesauna.com/post/dunning-kruger",
+        "title": "LLMs are steroids for your Dunning-Kruger"
+    },
+    {
+        "url": "https://cryptography101.ca/",
+        "title": "Cryptography 101 With Alfred Menezes"
+    },
+    {
+        "url": "https://murdle.com/",
+        "title": "MURDLE - Mystery Puzzles"
+    },
+    {
+        "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+        "title": "They're Made Out Of Meat"
+    },
+    {
+        "url": "https://www.aircraftdex.com/",
+        "title": "Aircraft Dex"
+    },
+    {
+        "url": "https://youtu.be/n068fel-W9I",
+        "title": "Special Lecture: F-22 Flight Controls"
+    },
+    {
+        "url": "https://www.janestreet.com/web-app/hardcaml-docs/introduction/why",
+        "title": "HardCaml"
+    },
+    {
+        "url": "https://tegabrain.com/Slop-Evader",
+        "title": "Slop Evader (Extension to avoid AI Slop)"
+    },
+    {
+        "url": "https://adelfaure.net/",
+        "title": "adelfaure.net - ASCII Art Collection"
+    },
     {
         "url": "https://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html",
         "title": "A Stick Figure Guide to the Advanced Encryption Standard (AES)"
