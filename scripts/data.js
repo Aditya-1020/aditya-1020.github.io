@@ -31,6 +31,54 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://intertapes.net/",
+        "title": "Intertapes"
+    },
+    {
+        "url": "https://bost.ocks.org/mike/algorithms/",
+        "title": "Visualizing Algorithms"
+    },
+    {
+        "url": "https://osci-render.com",
+        "title": "OSCI-Render"
+    },
+    {
+        "url": "https://read.asimov.com/",
+        "title": "Read Something Wonderful (About Biology)"
+    },
+    {
+        "url": "https://www.glennsmuseum.com/",
+        "title": "Glenn's Computer Museum"
+    },
+    {
+        "url": "https://nand2mario.github.io/8086_microcode.html",
+        "title": "Intel 8086 Microcode Explorer"
+    },
+    {
+        "url": "https://seated.ro/posts/rabbit-hole-learning.html",
+        "title": "Rabbit Hole Learning"
+    },
+    {
+        "url": "http://blog.notdot.net/2012/10/Build-your-own-FPGA",
+        "title": "Build Your Own FPGA"
+    },
+    {
+        "url": "https://complexity-explorables.org/",
+        "title": "Complexity Explorables"
+    },
+    {
+        "url": "https://www.memorymanagement.org/",
+        "title": "Memory Management Reference"
+    },
+    {
+        "url": "https://theuselessweb.com/",
+        "title": "The Useless Web"
+    },
+    {
+        "url": "https://offlinecrush.substack.com/p/how-to-use-the-internet-again-a-curriculum",
+        "title": "How to Use the Internet Again: A Curriculum"
+    },
+    {
         "url": "https://publish.obsidian.md/discretecs/START+HERE",
         "title": "Discrete Structures for Computer Science"
     },
