@@ -19,7 +19,8 @@ const blogroll = [
     { "url": "https://taylor.town/", "title": "taylor.town" },
     { "url": "https://www.righto.com/", "title": "Ken Shirriff's Blog" },
     { "url": "https://lemire.me/blog/", "title": "Daniel Lemire" },
-    { "url": "https://semiwiki.com/", "title": "SemiWiki" }
+    { "url": "https://semiwiki.com/", "title": "SemiWiki" },
+    { "url": "https://www.01signal.com/", "title": "01signal"}
 ];
 
 /*
@@ -30,6 +31,18 @@ const blogroll = [
 */
 
 const bookmarks = [
+    {
+        "url": "https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html",
+        "title": "GPU Resources"
+    },   
+    {
+        "url": "https://www.ccreweb.org/documents/physics/chaos/LorenzCircuit3.html",
+        "title": "A Simple Circuit Implementation of a Chaotic Lorenz System"
+    },
+    {
+        "url": "https://terminal.c1games.com/",
+        "title": "Terminal game"
+    },
     {
         "url": "https://intertapes.net/",
         "title": "Intertapes"
