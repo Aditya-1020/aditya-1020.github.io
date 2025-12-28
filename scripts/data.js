@@ -32,6 +32,18 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://floor796.com/",
+        "title": "Floor796"
+    },
+    {
+        "url": "https://github.com/amilich/isometric-city",
+        "title": "IsoCity (open source game)"
+    },
+    {
+        "url": "https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/",
+        "title": "Egyptian Hieroglyphics"
+    },
+    {
         "url": "https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html",
         "title": "GPU Resources"
     },   
