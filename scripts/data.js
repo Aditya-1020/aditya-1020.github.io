@@ -32,6 +32,10 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://mapcn.vercel.app/",
+        "title": "Mapcn (Open source map components)"
+    },
+    {
         "url": "https://floor796.com/",
         "title": "Floor796"
     },
