@@ -20,7 +20,8 @@ const blogroll = [
     { "url": "https://www.righto.com/", "title": "Ken Shirriff's Blog" },
     { "url": "https://lemire.me/blog/", "title": "Daniel Lemire" },
     { "url": "https://semiwiki.com/", "title": "SemiWiki" },
-    { "url": "https://www.01signal.com/", "title": "01signal"}
+    { "url": "https://www.01signal.com/", "title": "01signal"},
+    { "url": "https://geohot.github.io/blog/", "title": "the singularity is nearer"}
 ];
 
 /*
@@ -31,6 +32,34 @@ const blogroll = [
 */
 
 const bookmarks = [
+    {
+    "url": "https://digitaljs.tilk.eu/",
+    "title": "DigitalJS Online"
+    },
+    {
+      "url": "https://github.com/originalankur/maptoposter",
+      "title": "City Map Poster Generator"
+    },
+    {
+      "url": "https://cguti.xyz/posts/open-questions",
+      "title": "Open Questions"
+    },
+    {
+      "url": "https://explorabl.es/",
+      "title": "Explorable Explanations"
+    },
+    {
+      "url": "https://sha256algorithm.com/",
+      "title": "SHA-256 Algorithm Visualized"
+    },
+    {
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "title": "Transformer Explainer"
+    },
+    {
+      "url": "https://ngrok.com/blog/prompt-caching/",
+      "title": "Prompt Caching"
+    },
     {
         "url": "https://mapcn.vercel.app/",
         "title": "Mapcn (Open source map components)"
