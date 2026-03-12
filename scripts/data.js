@@ -33,6 +33,50 @@ const blogroll = [
 
 const bookmarks = [
     {
+        "url": "https://www.atarimagazines.com/",
+        "title": "Classic Computer Magazine Archive"
+    },
+    {
+      "url": "https://explore.marginalia.nu/view",
+      "title": "Marginalia Explore"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stigmergy",
+      "title": "Stigmergy"
+    },
+    {
+      "url": "https://thewessens.net/synthbook/#constructive-synthesis",
+      "title": "Constructive Synthesis"
+    },
+    {
+      "url": "https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html",
+      "title": "Life is a Picture but you Live in a Pixel"
+    },
+    {
+      "url": "https://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html",
+      "title": "How FPGAs work and why you'll buy one"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hexspeak",
+      "title": "Hex Speak"
+    },
+    {
+      "url": "https://wholeearth.info/",
+      "title": "Whole Earth Index"
+    },
+    {
+      "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "title": "Why Is the sky blue"
+    },
+    {
+      "url": "https://c82.net/euclid/",
+      "title": "First Six books of Euclid's Elements Illustrated"
+    },
+    {
+      "url": "https://google.github.io/styleguide/cppguide.html",
+      "title": "Google C++ Style Guide"
+    },
+    {
     "url": "https://digitaljs.tilk.eu/",
     "title": "DigitalJS Online"
     },
