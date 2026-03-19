@@ -1,0 +1,101 @@
+.feed-controls {
+  font-size: 85%;
+  margin-bottom: 0.4em;
+}
+
+.feed-controls a {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 0.8em;
+}
+
+.feed-controls a.active {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.status {
+  font-size: 80%;
+  color: #888;
+  margin: 0.4em 0 0.8em;
+}
+
+/* ── Paper row ── */
+.paper {
+  padding: 0.55em 0;
+  border-bottom: 1px dotted #ddd;
+}
+
+.paper:last-child {
+  border-bottom: none;
+}
+
+.paper-toggle {
+  text-decoration: none;
+  color: rgb(17, 17, 17);
+}
+
+.paper-meta {
+  font-size: 78%;
+  color: #888;
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+
+/* ── Abstract ── */
+.abstract {
+  display: none;
+  margin: 0.7em 0 0.4em 0;
+  padding: 0.7em 0.9em;
+  background: #f9f9f9;
+  border-left: 3px solid #ddd;
+  font-size: 88%;
+  color: #222;
+  line-height: 1.65em;
+}
+
+.abstract.open { display: block; }
+
+.abstract-authors {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 0.5em;
+  font-size: 92%;
+}
+
+.abstract-body {
+  margin-bottom: 0.6em;
+}
+
+.abstract-links {
+  font-size: 88%;
+}
+
+.abstract-links a {
+  margin-right: 0.7em;
+  color: inherit;
+  text-decoration: none;
+}
+
+.abstract-links a:hover {
+  background-color: #FFC;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .paper-meta {
+    display: block;
+    margin-left: 0;
+    margin-top: 0.15em;
+  }
+
+  .abstract {
+    font-size: 85%;
+    padding: 0.6em 0.7em;
+  }
+
+  .feed-controls a {
+    display: inline-block;
+    margin-bottom: 0.2em;
+  }
+}

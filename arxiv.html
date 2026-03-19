@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="feed.css">
+<link rel="icon" href="archive/pilot.jpg">
+<title>Aditya - arXiv Feed</title>
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html" rel="home">Home</a>
+    &nbsp;&bull;&nbsp; <a href="writings.html">Writings</a>
+    &nbsp;&bull;&nbsp; <a href="projects.html">Projects</a>
+    &nbsp;&bull;&nbsp; <a href="bookmarks.html">Bookmarks</a>
+  </nav>
+  <h1>arXiv Feed</h1>
+</header>
+
+<article>
+  <p>Latest papers from arXiv.
+    <a href="#" onclick="localStorage.removeItem('arxiv_papers');loadAll();return false;">refresh</a>
+  </p>
+
+  <!-- Filter links are injected here by feed.js after FEEDS is defined -->
+  <div class="feed-controls" id="feed-controls"></div>
+
+  <div class="status" id="status"></div>
+  <div id="feed"></div>
+</article>
+
+<br>
+<footer>
+  <hr>
+  <p>
+    <a href="index.html" rel="home">Home</a>
+    &nbsp;&bull;&nbsp; <a href="#">Back to top</a>
+    &nbsp;&bull;&nbsp; <a href="mailto:adityareddy400@gmail.com">adityareddy400@gmail.com</a>
+    &nbsp;&bull;&nbsp; <a href="https://github.com/aditya-1020" target="_blank">GitHub</a>
+    &nbsp;&bull;&nbsp; <a href="archive/adi_resume.pdf" target="_blank">Resume</a>
+  </p>
+</footer>
+
+<script src="feed.js"></script>
+</body>
+</html>
