@@ -33,6 +33,26 @@ const blogroll = [
 
 const bookmarks = [
     {
+    "url": "https://remoteqth.com/img/ZAW-WIKI/cmcc/CommonModeChokesW1HIS.pdf",
+    "title": "Common Mode Chokes"
+    },
+    {
+      "url": "https://www.ciggies.app/",
+      "title": "Chinese Cigarettes Museum"
+    },
+    {
+      "url": "https://git.bwaaa.monster/omnisearch/about/",
+      "title": "Omnisearch: metasearch engine written in C"
+    },
+    {
+      "url": "https://whoami.wiki/blog/personal-encyclopedias",
+      "title": "Personal Encyclopedias"
+    },
+    {
+      "url": "https://stefanabikaram.com/writing/fpga-sa-placer",
+      "title": "A Simulated Annealing FPGA Placer in Rust"
+    },
+    {
         "url": "https://www.atarimagazines.com/",
         "title": "Classic Computer Magazine Archive"
     },
