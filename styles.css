@@ -1,5 +1,9 @@
 /*Site inspired by Brain Tomasik - https://briantomasik.com */
 
+:root {
+	--nav_and_footer_link_color: rgb(17, 17, 17);
+}
+
 a:hover {
 	background-color: #FFC;
 	text-decoration: underline;
@@ -10,7 +14,7 @@ body {
 	max-width: 760px;
 	padding: 3% 4% 3% 4%;
 	margin: auto; /* center */
-	font-size: 1em;
+	font-size: 0.9em;
 	font-family:'opensans', Sans-Serif;
 	line-height: 1.6em;
 	font-weight: 440;
@@ -34,7 +38,7 @@ li a{
 
 nav {
 	text-align: right;
-	font-size: 80%;
+	font-size: 75%;
 }
  
 nav a {
