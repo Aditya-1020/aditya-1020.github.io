@@ -33,7 +33,7 @@ const bookmarks = [
 	{ "url": "https://vga-playground.com/", "title": "Tiny Tapeout VGA Playground" },
 	{ "url": "https://znah.net/tiny_explorer/", "title": "Tiny Tapeout Explorer" },
 	{ "url": "https://payphoneradio.com/", "title": "Payphone Radio" },
-	{ "url": "https://web.archive.org/web/20260512071354/https://www.typewritten.org/Media/", "title": "typewritten software (Retrotechnology Research Lab)" }
+	{ "url": "https://web.archive.org/web/20260512071354/https://www.typewritten.org/Media/", "title": "typewritten software (Retrotechnology Research Lab)" },
 	{ "url": "https://donottouchyourface.com/", "title": "Do not touch your face" },
 	{ "url": "https://blog.cloudflare.com/branch-predictor/", "title": "Branch predictor: How many \"if\"s are too many? Including x86 and M1 benchmarks!" },
 	{ "url": "https://github.com/anton-mel/6502MOS", "title": "6502 MOS" },
