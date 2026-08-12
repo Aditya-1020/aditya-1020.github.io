@@ -25,6 +25,7 @@ const blogroll = [
 ];
 
 const bookmarks = [
+	{ "url": "https://sites.google.com/view/lostmediahandbook/", "title": "The Lost Media and Research Handbook" },
 	{ "url": "https://www.forth.org/", "title": "Forth Interest Group" },
 	{ "url": "https://pydle.net/", "title": "Pydle" },
 	{ "url": "https://www.theoldrobots.com/", "title": "The Old Robots" },
