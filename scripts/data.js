@@ -25,6 +25,22 @@ const blogroll = [
 ];
 
 const bookmarks = [
+	{"url":"https://www.brendangregg.com/books.html","title":"Books ~ Brendan Gregg"},
+	{"url":"https://toaster.llc/blog/index.html","title":"Photon (Tiny camera blog)"},
+	{"url":"https://dontpastetheai.com/","title":"Don't paste the AI, please"},
+	{"url":"https://kristoffer-dyrkorn.github.io/triangle-rasterizer/","title":"A Fast and Precise Triangle Rasterizer"},
+	{"url":"https://happytrees.org/Main_Page","title":"Happy trees (Dieshots, CPU collection)"},
+	{"url":"https://www.nicbarker.com/clay","title":"Clay (UI in C)"},
+	{"url":"https://numba.pydata.org/","title":"Numba (python go brr)"},
+	{"url":"https://wishbone-interconnect.readthedocs.io/en/latest/index.html","title":"Wishbone SoC Interconnection Architecture for Portable IP Cores"},
+	{"url":"https://wiki.dn42.us/home","title":"dn42"},
+	{"url":"https://eli.thegreenplace.net/2015/memory-layout-of-multi-dimensional-arrays","title":"Memory Layout of Multi-Dimensional Arrays"},
+	{"url":"https://canon.perell.com/","title":"Cannon: Art History Game"},
+	{"url":"https://pagedout.institute/","title":"Pagedout"},
+	{"url":"https://b2renger.github.io/","title":"b2renger"},
+	{"url":"https://sciencecareergeneral.neocities.org/","title":"The Science Career General"},
+	{"url":"https://langjamgamejam.com/","title":"Langjam Gamejame"},
+	{"url":"https://mitchellh.com/writing/everyone-should-know-simd","title":"Everyone should know SIMD"},
 	{ "url": "https://sites.google.com/view/lostmediahandbook/", "title": "The Lost Media and Research Handbook" },
 	{ "url": "https://www.forth.org/", "title": "Forth Interest Group" },
 	{ "url": "https://pydle.net/", "title": "Pydle" },
