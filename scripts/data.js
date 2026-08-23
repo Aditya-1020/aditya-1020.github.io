@@ -21,7 +21,8 @@ const blogroll = [
 	{ "url": "https://lemire.me/blog/", "title": "Daniel Lemire" },
 	{ "url": "https://semiwiki.com/", "title": "SemiWiki" },
 	{ "url": "https://www.01signal.com/", "title": "01signal" },
-	{ "url": "https://geohot.github.io/blog/", "title": "the singularity is nearer" }
+	{ "url": "https://geohot.github.io/blog/", "title": "the singularity is nearer" },
+    { "url": "https://www.nayuki.io/", "title": "Project Nayiki" }
 ];
 
 const bookmarks = [
