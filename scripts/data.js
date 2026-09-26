@@ -26,6 +26,21 @@ const blogroll = [
 ];
 
 const bookmarks = [
+	{"url":"https://figureitoutyourself.net/","title":"Tapeout Tycoon"},
+	{"url":"https://github.com/rpicos-uib/circuitsimcraft","title":"Circuits Minecraft"},
+	{"url":"https://playmusictheory.net/play","title":"Play Music Theory"},
+	{"url":"https://eiln.github.io/posts/ane.html","title":"Retrospectively Reverse-Engineering Apple's Neural Engine"},
+	{"url":"https://www.thecshandbook.com/","title":"CS Handbook (kinda neat)"},
+	{"url":"https://siliconzoo.org/tutorial.html","title":"SiliconZoo"},
+	{"url":"https://thomasahle.com/fast-polynomials/","title":"Evaluating Polynomials Fast"},
+	{"url":"https://cari.institute/aesthetics","title":"Index of Aesthetics"},
+	{"url":"https://web.mit.edu/jemorris/humor/500-miles","title":"500 Miles"},
+	{"url":"https://docs.google.com/document/u/0/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/mobilebasic?pli=1#h.n19gjj5ofuwv","title":"Designing AI Chip Hardware and Software"},
+	{"url":"https://easylang.online/blog/branchless","title":"When ‘if’ slows you down, avoid it"},
+	{"url":"https://www.submarinecablemap.com/","title":"Submarine Cable Map"},
+	{"url":"https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/","title":"The Cables that Connect the World"},
+	{"url":"https://www.copetti.org/writings/consoles/","title":"Architecture of Consoles"},
+	{"url":"https://web.archive.org/web/20250212023759/https://hacking.art","title":"Hacking Art"},
 	{"url":"https://www.brendangregg.com/books.html","title":"Books ~ Brendan Gregg"},
 	{"url":"https://toaster.llc/blog/index.html","title":"Photon (Tiny camera blog)"},
 	{"url":"https://dontpastetheai.com/","title":"Don't paste the AI, please"},
