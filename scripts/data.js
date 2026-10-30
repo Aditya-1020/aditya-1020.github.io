@@ -26,6 +26,11 @@ const blogroll = [
 ];
 
 const bookmarks = [
+	{ "url": "https://oscar-soirey.github.io/Raven/", "title": "Raven - GUI library in C11" },
+	{ "url": "https://github.com/loopj/tinysd", "title": "tinysd" },
+	{ "url": "https://outside5sigma.com/infinera-pic-map/", "title": "Infinera 1.6T PIC Map" },
+	{ "url": "https://www.adiuvoengineering.com/post/microzed-chronicles-interesting-interview-question", "title": "MicroZed: measuring unknown clock with reference clock" },
+	{"url":"https://github.com/tenstorrent/tt-oca-harness","title":"tt-oca-harness"},
 	{"url":"https://o5s.org/advanced-packaging-atlas/","title":"Advanced Packaging Atlas"},
 	{"url":"https://xenohunter.github.io/ankigen/","title":"AnkiGen"},
 	{"url":"https://bsg.ai/","title":"Bespoke Silicon Group"},
