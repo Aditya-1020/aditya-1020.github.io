@@ -22,10 +22,21 @@ const blogroll = [
 	{ "url": "https://semiwiki.com/", "title": "SemiWiki" },
 	{ "url": "https://www.01signal.com/", "title": "01signal" },
 	{ "url": "https://geohot.github.io/blog/", "title": "the singularity is nearer" },
-    { "url": "https://www.nayuki.io/", "title": "Project Nayiki" }
+    { "url": "https://www.nayuki.io/", "title": "Project Nayiki" },
+	{ "url": "https://slatestarcodex.com/", "title": "Slate Star Codex" }
 ];
 
 const bookmarks = [
+	{ "url": "https://wayback-labs.sf.archive.org/", "title": "Wayback Machine Labs" },
+	{ "url": "https://book.mlc.ai/index.html", "title": "Machine Learning Compiler Book" },
+	{ "url": "https://10-411.com/", "title": "CMU [10-411]: Compulers for machine learning" },
+	{ "url": "https://weather.com/retro/", "title": "Retro Weather" },
+	{ "url": "https://borretti.me/article/no-man-is-an-island", "title": "No man is an Island" },
+	{ "url": "https://o5s.org/ipatent/", "title": "Interactive Patents" },
+	{ "url": "https://nepp.nasa.gov/WHISKER/index.html", "title": "Tin Whisker (and Other Metal Whisker)" },
+	{ "url": "https://garfieldminusgarfield.net/page/479", "title": "Garfield minus Garfield" },
+	{ "url": "https://www.reddit.com/r/C_Programming/comments/1hddvwd/are_there_three_types_of_array_memory_allocation/", "title": "Are there three types of array memory allocation in C ?" },
+	{ "url": "https://en.wikipedia.org/wiki/Sensorineural_hearing_loss", "title": "Sensorineural Hearing Loss" },
 	{ "url": "https://oscar-soirey.github.io/Raven/", "title": "Raven - GUI library in C11" },
 	{ "url": "https://github.com/loopj/tinysd", "title": "tinysd" },
 	{ "url": "https://outside5sigma.com/infinera-pic-map/", "title": "Infinera 1.6T PIC Map" },
