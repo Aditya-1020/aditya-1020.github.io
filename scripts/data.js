@@ -27,6 +27,7 @@ const blogroll = [
 ];
 
 const bookmarks = [
+	{ "url": "https://www.things-workshop.com/", "title": "things-workshop" },
 	{ "url": "https://wayback-labs.sf.archive.org/", "title": "Wayback Machine Labs" },
 	{ "url": "https://book.mlc.ai/index.html", "title": "Machine Learning Compiler Book" },
 	{ "url": "https://10-411.com/", "title": "CMU [10-411]: Compulers for machine learning" },
