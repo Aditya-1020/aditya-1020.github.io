@@ -23,10 +23,12 @@ const blogroll = [
 	{ "url": "https://www.01signal.com/", "title": "01signal" },
 	{ "url": "https://geohot.github.io/blog/", "title": "the singularity is nearer" },
     { "url": "https://www.nayuki.io/", "title": "Project Nayiki" },
-	{ "url": "https://slatestarcodex.com/", "title": "Slate Star Codex" }
+	{ "url": "https://slatestarcodex.com/", "title": "Slate Star Codex" },
+	{ "url": "https://qntm.org/blog", "title": "qntm" }
 ];
 
 const bookmarks = [
+	{ "url": "https://aresluna.org/ui-style-guides/", "title": "UI style guide" },
 	{ "url": "https://www.things-workshop.com/", "title": "things-workshop" },
 	{ "url": "https://wayback-labs.sf.archive.org/", "title": "Wayback Machine Labs" },
 	{ "url": "https://book.mlc.ai/index.html", "title": "Machine Learning Compiler Book" },
